@@ -3,19 +3,8 @@ import java.util.ArrayList;
 
 import org.json.JSONObject;
 
-import sabre.Trams.AppServer.Client.ActivityObject;
-import sabre.Trams.AppServer.Client.BaseObject;
-import sabre.Trams.AppServer.Client.BookingItem;
-import sabre.Trams.AppServer.Client.InvoiceItem;
-import sabre.Trams.AppServer.Client.InvoiceObject;
-import sabre.Trams.AppServer.Client.InvoiceSearchItem;
-import sabre.Trams.AppServer.Client.InvoiceSearchObject;
-import sabre.Trams.AppServer.Client.ProfileObject;
-import sabre.Trams.AppServer.Client.ResCardItem;
-import sabre.Trams.AppServer.Client.ResCardObject;
-import sabre.Trams.AppServer.Client.ResvtnItem;
-import sabre.Trams.AppServer.Client.ResvtnObject;
-import sabre.Trams.AppServer.Client.Session.Session;
+import com.sabre.trams.appserver.client.*;
+import com.sabre.trams.appserver.client.session.Session;
 
 public class AppServerDemo {
 		
